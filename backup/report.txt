@@ -1,3 +1,15 @@
-
-Backed up completed: Files backed up: 6 backed up
+Backed up completed: Files backed up: 6 
 File has: /var/log/bootstrap.log:5  errors
+
+Backed up completed: Files backed up: 9
+File has: /var/log/bootstrap.log:5
+/var/log/dpkg.log:12  errors
+Backed up completed: Files backed up: 9
+File has: /var/log/bootstrap.log:5
+/var/log/dpkg.log:12  errors
+Backed up completed: Files backed up: 9
+File has: /var/log/bootstrap.log:5
+/var/log/dpkg.log:12  errors
+Backed up completed: Files backed up: 8
+File has: /var/log/bootstrap.log:5
+/var/log/dpkg.log:12  errors
